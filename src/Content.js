@@ -10,18 +10,22 @@ import { IoMdApps } from "react-icons/io";
 export const content = {
   nav: [
     {
+      text: "Home",
       link: "#home",
       icon: IoMdContact,
     },
     {
+      text: "Skills",
       link: "#skills",
       icon: HiOutlineLightBulb,
     },
     {
+      text: "Projects",
       link: "#projects",
       icon: IoMdApps,
     },
     {
+      text: "Contact",
       link: "#contact",
       icon: MdAlternateEmail,
     },
@@ -32,11 +36,11 @@ export const content = {
     LastName: "DHAWAN",
     hero_content: [
       {
-        count: "6+",
+        count: "1+",
         text: "Years of Experinse in Software development.",
       },
       {
-        text: "With track record of successfully delivering user-friendly web apps.",
+        text: "With track record of successfully delivering user-friendly web applications.",
       },
       
     ],
@@ -47,20 +51,20 @@ export const content = {
     skills_content: [
       {
         name: "Frontend",
-        para: ["React JS", "React Native", "JavaScript", "TypeScript", "HTML", "CSS/SCSS", "Angular"],
+        para: ["Ext.JS",  "JavaScript", "HTML", "CSS/SCSS"],
       },
       {
         name: "Backend",
-        para: ["Node.js", "Rest APIs", "Express.js", "SpringBoot"],
+        para: ["C#", "Python", "PHP", "C++","Rest APIs"],
       },
-      {
-        name: "Testing",
-        para: ["JEST  ", "RTL", "Jasmine"],
-      },
-      {
-        name: "DevOps",
-        para: ["Docker", "Kubernetes", "Jenkins", "Gocd", "CI/CD"],
-      }
+      // {
+      //   name: "Testing",
+      //   para: ["JEST  ", "RTL", "Jasmine"],
+      // },
+      // {
+      //   name: "DevOps",
+      //   para: ["Docker", "Kubernetes", "Jenkins", "Gocd", "CI/CD"],
+      // }
     ],
     icon: MdArrowForward,
   },
@@ -69,24 +73,24 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "palvidhawan8@gmail.com",
+        text: "kanishdhawan2@gmail.com",
         icon: GrMail,
-        link: "mailto:palvidhawan8@gmail.com",
+        link: "mailto:kanishdhawan2@gmail.com",
       },
       {
-        text: "+91 8284913477",
+        text: "+91 9876062575",
         icon: MdCall,
-        link: "https://wa.me/8284913477",
+        link: "https://wa.me/9876062575",
       },
       {
-        text: "palvi-dhawan",
+        text: "kanish-dhawan",
         icon: FaLinkedin,
-        link: "https://www.linkedin.com/in/palvi-dhawan-5a1241136/",
+        link: "https://www.linkedin.com/in/kanish-dhawan/",
       },
       {
-        text: "palvi8",
+        text: "Kanish666",
         icon: FaGithub,
-        link: "https://github.com/palvi8",
+        link: "https://github.com/Kanish666",
       },
     ],
   },

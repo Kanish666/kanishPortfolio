@@ -19,50 +19,49 @@ const Services = () => {
     contentStyle={{color: '#fff', borderTop: "4px solid #B6CCF5" }}
     contentArrowStyle={{ borderRight: '7px solid  #D5E3F1' }}
     iconStyle={{ background: '#B6CCF5', color: '#fff' }}
-    date="Aug 2023 - present"
+    date="Sep 2023 - present"
   >
-    <h6>ThoughtWorks</h6>
-    <h4 className="vertical-timeline-element-title">Banking Domain</h4>
-    <h6 className="vertical-timeline-element-subtitle">Role - UI Developer</h6>
+    <h6>Open Access Technology International</h6>
+    <h4 className="vertical-timeline-element-title">AMIHeadend</h4>
+    <h6 className="vertical-timeline-element-subtitle">Role - Software Developer</h6>
     <h5 className="vertical-timeline-element-subtitle" style={{marginTop: '0.5rem'}}>
-      Tech - React Native, React JS, React-Styleguide, Jest
+      Tech - Ext JS, C#
     </h5>
     <p style={{marginTop: '0.5rem', marginBottom: '0.5rem'}}>
-    Web and mobile product design, working with Core Design System Team
+    Web Application design, working with Design System Team
     </p>
     <ul className='text-slate-500' style={{ listStyle: 'outside'}}>
-      <li>Design and Developed multiple components consumed by Web and mobile Apps.</li>
+      <li>Design and Developed multiple components consumed by Web application.</li>
       <li>Handling the different version of common components.</li>
-      <li>Migrate consumers app with the latest version of components.
+      <li> Created new displays and implemented features to enhance user experience and interface functionality.</li>
+      <li> focusing on innovative design and seamless delivery within the energy management and utility sectors.
 </li>
     </ul>
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    date="July 2022 - July 2023"
+    date="Nov 2024 - present"
     contentStyle={{color: '#fff', borderTop: "4px solid #B6CCF5" }}
     contentArrowStyle={{ borderRight: '7px solid  #D5E3F1' }}
     iconStyle={{ background: '#B6CCF5', color: '#fff' }}
   >
-    <h6>ThoughtWorks</h6>
-    <h4 className="vertical-timeline-element-title">Web & Mobile Product Design & Delivery</h4>
-    <h6 className="vertical-timeline-element-subtitle">Role - UI Developer</h6>
+    <h6>Open Access Technology International</h6>
+    <h4 className="vertical-timeline-element-title">Grafana</h4>
+    <h6 className="vertical-timeline-element-subtitle">Role - Software Developer</h6>
     <h5 className="vertical-timeline-element-subtitle" style={{marginTop: '0.5rem'}}>
-    Tech - ReactJS, Storybook, material-ui, TypeScript, Jest, Springboot, Docker, Kubernetes
+    Tech -ReactJS, TypeScript, Grafana Plugin SDK
       </h5>
     <p style={{marginTop: '0.5rem', marginBottom: '0.5rem'}}>
-    Mobile and Web Product Design and Delivery  platform for school district to provide safe transport  to and form school for Disabled Children
+    Contributed to the Grafana platform, enabling advanced monitoring, visualization, and alerting for real-time system metrics and data insights.
     </p>
     <ul className='text-slate-500' style={{ listStyle: 'outside'}}>
-      <li>Mainly developed features in ReactJS.</li>
-      <li>Created new design in storybooks with template Typescript.</li>
-      <li>Took initiatives to increase the code coverage and create tech debt card for the cleanup.</li>
-      <li>Cultivated other backend devs in UI.</li>
-      <li>Showcased multiple featues owned by me to the clients.</li>
+      <li>Improved dashboards to make data more useful and easy to understand.</li>
+      <li>Optimized dashboards and visualizations to provide actionable insights for end users.</li>
+     
     </ul>
 
   </VerticalTimelineElement>
-  <VerticalTimelineElement
+  {/* <VerticalTimelineElement
     className="vertical-timeline-element--work"
     date="Nov 2021 - May 2022"
     contentStyle={{color: '#fff', borderTop: "4px solid #B6CCF5" }}
@@ -136,7 +135,7 @@ const Services = () => {
       <li>Designed, developed, and maintained a responsive website using React JS.</li>
       <li>Created and implemented a Review Toolbar, consolidating ratings and reviews from various platforms into a single, streamlined toolbar.</li>
     </ul>
-  </VerticalTimelineElement>
+  </VerticalTimelineElement> */}
 
 </VerticalTimeline>
       </div>
