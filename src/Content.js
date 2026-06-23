@@ -55,16 +55,9 @@ export const content = {
       },
       {
         name: "Backend",
-        para: ["C#", "Python", "PHP", "C++","Rest APIs"],
+        para: ["C#", "Python", "SQL" "PHP", "C++","Rest APIs"],
       },
-      // {
-      //   name: "Testing",
-      //   para: ["JEST  ", "RTL", "Jasmine"],
-      // },
-      // {
-      //   name: "DevOps",
-      //   para: ["Docker", "Kubernetes", "Jenkins", "Gocd", "CI/CD"],
-      // }
+
     ],
     icon: MdArrowForward,
   },
