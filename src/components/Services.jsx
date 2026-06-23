@@ -19,7 +19,7 @@ const Services = () => {
     contentStyle={{color: '#fff', borderTop: "4px solid #B6CCF5" }}
     contentArrowStyle={{ borderRight: '7px solid  #D5E3F1' }}
     iconStyle={{ background: '#B6CCF5', color: '#fff' }}
-    date="Sep 2023 - present"
+    date="Sep 2023 - Jul 2025"
   >
     <h6>Open Access Technology International</h6>
     <h4 className="vertical-timeline-element-title">AMIoT</h4>
@@ -40,7 +40,7 @@ const Services = () => {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    date="Nov 2024 - present"
+    date="Jul 2025 - present"
     contentStyle={{color: '#fff', borderTop: "4px solid #B6CCF5" }}
     contentArrowStyle={{ borderRight: '7px solid  #D5E3F1' }}
     iconStyle={{ background: '#B6CCF5', color: '#fff' }}
