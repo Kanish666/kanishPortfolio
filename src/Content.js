@@ -51,7 +51,7 @@ export const content = {
     skills_content: [
       {
         name: "Frontend",
-        para: ["Ext.JS",  "JavaScript", "HTML", "CSS/SCSS"],
+        para: ["Ext.JS", "JavaScript", "HTML", "CSS/SCSS"],
       },
       {
         name: "Backend",
