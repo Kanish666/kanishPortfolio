@@ -55,7 +55,7 @@ export const content = {
       },
       {
         name: "Backend",
-        para: ["C#", "Python", "SQL" "PHP", "C++","Rest APIs"],
+        para: ["C#", "Python", "SQL", "PHP", "C++","Rest APIs"],
       },
 
     ],
