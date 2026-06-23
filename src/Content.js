@@ -36,7 +36,7 @@ export const content = {
     LastName: "DHAWAN",
     hero_content: [
       {
-        count: "1+",
+        count: "3+",
         text: "Years of Experinse in Software development.",
       },
       {
